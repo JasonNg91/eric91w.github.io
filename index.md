@@ -1,4 +1,4 @@
-## Mouyan Wu
+## Eric Wu
 
 I currently study at the College of Automation, Harbin Engineering University and was a visiting student at the Deparment of Geomatics, University of Calgary. 
 
