@@ -1,4 +1,4 @@
-# Mouyan Wu
+# Eric Wu
 I currently study at the College of Automation, Harbin Engineering University and was a visiting student at the Deparment of Geomatics, University of Calgary.
 
 I’m doing researches in satellite navigation and integrated navigation. My current project are ‘Multi-frequency GNSS software-defined receiver’ and its GNSS/INS integration navigation system.
